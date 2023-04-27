@@ -10,7 +10,7 @@ New Jersey Institute of Technology, New Jersey 07102, USA
 
 In this repository, we provide the following materials:
 
-1. Robotic Hand 3D Models: This folder includes the STL files of the 3D models of the hand we employed in this project. The models are taken from: 
+1. Robotic Hand 3D Models: This folder includes the STL files of the 3D models of the hand we employed in this project. The hand models were adopted from: 
 
 
 2. Base Unit 3D Models: This folder includes the STL files of the base unit we employed in this this project. These are spool, ...
