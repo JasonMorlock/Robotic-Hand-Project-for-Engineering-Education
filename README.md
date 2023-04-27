@@ -13,7 +13,10 @@ In this repository, we provide the following materials:
 1. Robotic Hand 3D Models: This folder includes the STL files of the 3D models of the hand we employed in this project. The hand models were adopted from [1].
 
 
-2. Base Unit 3D Models: This folder includes the STL files of the base unit we employed in this this project. These are spool, ...
+2. Base Unit 3D Models: This folder includes the STL files of the base unit we employed in this this project. These are Servo Housing Unit, Arduino Housing Attachment, and Spool.
+
+
+3. Robotic Hand and Base Unit Assembly Drawing: This drawing shows front, top, and right facing views for the assembled base unit and a isometric view of the entire assembly.
 
 
 If you use any of this material, please cite the paper: 
