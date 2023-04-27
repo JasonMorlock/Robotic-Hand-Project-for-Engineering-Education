@@ -23,4 +23,5 @@ If you use any of this material, please cite the paper:
 
 
 References:  
-[1] 
+[1] Gyrobot, “Flexy Hand,” Ultimaker Thingiverse, 2014. https://www.thingiverse.com/thing:242639
+
