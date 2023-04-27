@@ -15,4 +15,6 @@ In this repository, we provide the following materials:
 
 2. Base Unit 3D Models: This folder includes the STL files of the base unit we employed in this this project. These are spool, ...
 
-If you use our models or design model, please cite the paper: 
+
+If you use any of this material, please cite the paper: 
+
